@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+Drug DEMO/
+*.zip
+
+# Office temp lock files
+~$*.docx
+~$*.xlsx
+
+# OS / editor
+.DS_Store
+*.local
+.vscode/
+.idea/
